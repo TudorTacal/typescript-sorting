@@ -21,6 +21,6 @@
   "homepage": "https://github.com/TudorTacal/typescript-sorting#readme",
   "dependencies": {
     "concurrently": "^5.0.2",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.22"
   }
 }
